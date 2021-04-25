@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MFDeleon\\Downloads\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan.Tests\\XPositibo.Eskwelahan.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MFDeleon\\Downloads\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan.Api\\XPositibo.Eskwelahan.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MFDeleon\\Downloads\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan.Api\\XPositibo.Eskwelahan.Api.csproj",
+        "projectName": "XPositibo.Eskwelahan.Api",
+        "projectPath": "C:\\Users\\MFDeleon\\Downloads\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan.Api\\XPositibo.Eskwelahan.Api.csproj",
+        "packagesPath": "C:\\Users\\MFDeleon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MFDeleon\\Downloads\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MFDeleon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/openpathinc/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MFDeleon\\Downloads\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan.Tests\\XPositibo.Eskwelahan.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MFDeleon\\Downloads\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan.Tests\\XPositibo.Eskwelahan.Tests.csproj",
+        "projectName": "XPositibo.Eskwelahan.Tests",
+        "projectPath": "C:\\Users\\MFDeleon\\Downloads\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan.Tests\\XPositibo.Eskwelahan.Tests.csproj",
+        "packagesPath": "C:\\Users\\MFDeleon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MFDeleon\\Downloads\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MFDeleon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/openpathinc/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\MFDeleon\\Downloads\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan.Api\\XPositibo.Eskwelahan.Api.csproj": {
+                "projectPath": "C:\\Users\\MFDeleon\\Downloads\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan\\XPositibo.Eskwelahan.Api\\XPositibo.Eskwelahan.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
